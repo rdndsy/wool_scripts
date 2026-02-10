@@ -480,7 +480,7 @@ host-suffix, duapps.com, reject
 
 # > 百度贴吧
 # 屏蔽域名dns查询
-IP-CIDR, 180.76.76.200/32, reject
+# IP-CIDR, 180.76.76.200/32, reject
 
 # > 百词斩
 host, advertise.baicizhan.com, reject
