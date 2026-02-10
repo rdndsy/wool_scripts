@@ -496,7 +496,6 @@ host-suffix, union.baidu.com, reject
 host-suffix, unionimage.baidu.com, reject
 host-suffix, videopush.baidu.com, reject
 host-suffix, pups.bdimg.com, reject
-host, afd.baidu.com, reject
 host, als.baidu.com, reject
 host-suffix, bar.baidu.com, reject
 host-suffix, baiduyubaidu.com, reject
@@ -585,10 +584,6 @@ host-suffix, hmma.baidu.com, reject
 host-suffix, ecma.bdimg.com, reject
 host-suffix, ecmb.bdimg.com, reject
 host-suffix, ecmc.bdimg.com, reject
-host-suffix, su.bdimg.com, reject
-host-suffix, mipcache.bdstatic.com, reject
-host-suffix, su.bdstatic.com, reject
-host-suffix, zz.bdstatic.com, reject
 
 # > 百度贴吧
 # 屏蔽域名dns查询
