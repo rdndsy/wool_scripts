@@ -485,7 +485,7 @@ host, mobads.baidu.com, reject
 host, mobads-logs.baidu.com, reject
 host, nadvideo2.baidu.com, reject
 host, nsclick.baidu.com, reject
-host-suffix, bce.baidu.com, reject
+# host-suffix, bce.baidu.com, reject
 host-suffix, bar.baidu.com, reject
 host-suffix, baiduyubaidu.com, reject
 host-suffix, baidutv.baidu.com, reject
@@ -613,7 +613,7 @@ host-suffix, wisepush.video.baidu.com, reject
 host-suffix, wm.baidu.com, reject
 host-suffix, yingxiao.baidu.com, reject
 host-suffix, znsv.baidu.com, reject
-host-suffix, baidustatic.com, reject
+# host-suffix, baidustatic.com, reject
 host-suffix, als.baidu.com, reject
 host-suffix, duclick.baidu.com, reject
 host-suffix, hm.baidu.com, reject
@@ -633,7 +633,7 @@ host-suffix, su.bdimg.com, reject
 host-suffix, mipcache.bdstatic.com, reject
 host-suffix, su.bdstatic.com, reject
 host-suffix, zz.bdstatic.com, reject
-host-suffix, baidustatic.com, reject
+# host-suffix, baidustatic.com, reject
 host-suffix, duapps.com, reject
 
 # > 百度地图
