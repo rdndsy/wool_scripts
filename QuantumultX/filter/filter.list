@@ -474,7 +474,7 @@ host-suffix, iad-05.braze.com, reject
 host-suffix, iad-06.braze.com, reject
 host-suffix, iad-08.braze.com, reject
 
-# 百度广告域名（放心屏蔽）
+# 百度广告域名（真正安全 · 不影响百度地图卫星图）
 host-suffix, duapps.com, reject
 host-suffix, cpro.baidu.com, reject
 host-suffix, pos.baidu.com, reject
